@@ -1,0 +1,1 @@
+Error processing the file /Users/unbxd/Desktop/UNILEVER/IQ_site_key/sq_dump/VN/sq_daily_0511.json: string indices must be integers
